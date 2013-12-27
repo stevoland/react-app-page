@@ -1,0 +1,18 @@
+{
+  "name": "react-app-page",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-app"
+  ],
+  "author": "Stephen J. Collings <stevoland@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-app-controller": "git+https://github.com/andreypopp/react-app-controller.git"
+  }
+}
