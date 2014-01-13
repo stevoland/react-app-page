@@ -13,6 +13,6 @@
   "author": "Stephen J. Collings <stevoland@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react-app-controller": "git+https://github.com/andreypopp/react-app-controller.git"
+    "react-app-controller": "~0.4.0"
   }
 }
